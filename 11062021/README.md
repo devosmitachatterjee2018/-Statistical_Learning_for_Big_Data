@@ -8,7 +8,7 @@ The project is to determine the number of clusters in the dataset and find a way
 ## Responsibilities for project 1
 - Perform an exploratory data analysis with the given data in order to understand the dataset by summarizing their main characteristics, either statistically or visually.
 - Implement dimensionality reduction of the data since the number of features is large relative to the number of observations.
-  -- Principal Component Analysis
+  * Principal Component Analysis
 - Use clustering algorithms.
 -- K-means
 -- Gaussian Mixture Models (GMM)
