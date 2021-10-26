@@ -16,8 +16,7 @@ The project is to determine the number of clusters in the dataset and find a way
 
 ## Project 2: Feature selection
 We are provided with a regression dataset containing a response vector 𝐲 of order n * 1 (Q2_y.csv) and two sets of features 𝐗1 of order n * p1  (Q2_X1.csv) and 𝐗2 of order n * p2 (Q2_X2.csv).
-The project is to determine the most important predictors for the response 𝐲 using (A) only the features in 𝐗1 and then (B) both sets of features in 𝐗1 and 𝐗2 together (𝐗 = (𝐗1,𝐗2) of order n * (𝑝1+𝑝2)
-and to explain the difference between the results obtained from (A) and (B).
+The project is to determine the most important features for the response 𝐲 using (A) only the features in 𝐗1 and then (B) both sets of features in 𝐗1 and 𝐗2 together (𝐗 = (𝐗1,𝐗2) of order n * (𝑝1+𝑝2), justify the feature selection, and to explain the difference between the results obtained from (A) and (B).
 
 ## Responsibilities for project 2
 - Perform an exploratory data analysis.
