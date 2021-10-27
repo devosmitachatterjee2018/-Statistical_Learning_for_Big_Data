@@ -11,7 +11,9 @@ The project is to determine the most important features for the response y using
   *  Data size
   *  Data type
   *  Missing data
-  *  Duplicate data.
+  *  Duplicate data
+  *  Constant columns
+  
 - Apply feature selection technique using (A) only the features in X1 and (B) both sets of features in X1 and X2 together X = (X1,X2).
   * Lasso Regression
     - Do bootstrapping.
