@@ -8,6 +8,12 @@ The project is to determine the number of clusters in the dataset and find a met
 
 ## Responsibilities
 - Perform an exploratory data analysis with the data in order to understand the dataset by summarizing their main characteristics, either statistically or visually.
+  *  Data size
+  *  Data type
+  *  Missing data
+  *  Duplicate data
+  *  Constant columns
+  
 - Implement dimensionality reduction on the data since the number of features is large relative to the number of observations.
   * Principal Component Analysis (PCA)
     - Data Standardization
