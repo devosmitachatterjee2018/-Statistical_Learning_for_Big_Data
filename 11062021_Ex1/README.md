@@ -10,7 +10,7 @@ The project is to determine the number of clusters in the dataset and find a met
 - Perform an exploratory data analysis with the data in order to understand the dataset by summarizing their main characteristics, either statistically or visually.
 - Implement dimensionality reduction on the data since the number of features is large relative to the number of observations.
   * Principal Component Analysis (PCA)
-    -- Data Standardization
+    - Data Standardization
 - Use different clustering algorithms on the obtained principal components to obtain high quality clusters in the data.
   * K-means 
   * Gaussian Mixture Models (GMM)
