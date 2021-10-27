@@ -2,7 +2,7 @@
 The assignment is a part of the course 'Statistical_Learning_for_Big_Data', course code MVE441 at Chalmers.
 
 ## Project
-A clustering dataset (Q1_X.csv) is being provided consisting of 560 samples/observations and 974 columns/features.
+A high dimensional clustering dataset (Q1_X.csv) is being provided consisting of 560 samples/observations and 974 columns/features.
 
 The project is to determine the number of clusters in the dataset and find a method to visualise the best clustering.
 
