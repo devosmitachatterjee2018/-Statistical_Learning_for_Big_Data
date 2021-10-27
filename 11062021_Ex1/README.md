@@ -16,8 +16,8 @@ The project is to determine the number of clusters in the dataset and find a met
   
 - Implement dimensionality reduction on the data since the number of features is large relative to the number of observations.
   * Principal Component Analysis (PCA)
-    - Data Standardization
-    - Performing PCA on the standardized data
+    - Standardize the data.
+    - Performing PCA on the standardized data.
 - Use different clustering algorithms to obtain high quality clusters in the data.
   * K-means
     - Find an optimal k using Elbow method.
