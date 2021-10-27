@@ -22,7 +22,7 @@ The project is to determine the number of clusters in the dataset and find a met
     - Minimize the Akaike Information Criterion (AIC) for optimal number of clusters k.
     - Cluster using GMM based on principal components.
   * Density-Based Spatial Clustering of Applications with Noise (DBSCAN)
-    - Find the parameter epsilon by plotting K-distance graph.
+    - Find the parameter epsilon by plotting k-distance graph.
     - Cluster using DBCAN based on principal components.
     
 ## Environment
