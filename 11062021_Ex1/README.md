@@ -1,5 +1,5 @@
 ## Context
-The assignment is a part of the course 'Statistical_Learning_for_Big_Data', course code MVE441 at Chalmers.
+The assignment is a part of the Course 'Statistical Learning for Big Data', Course Code MVE441 at Chalmers.
 
 ## Project
 A high dimensional clustering dataset (Q1_X.csv) is being provided consisting of 560 samples/observations and 974 columns/features.
