@@ -8,7 +8,10 @@ The project is to determine the most important features for the response y using
 
 ## Responsibilities
 - Perform an exploratory data analysis in order to understand the dataset by summarizing their main characteristics, either statistically or visually.
-  *  Data size, data type, missing data, duplicate data.
+  *  Data size
+  *  Data type
+  *  Missing data
+  *  Duplicate data.
 - Apply feature selection technique using (A) only the features in X1 and (B) both sets of features in X1 and X2 together X = (X1,X2).
   * Lasso Regression
     - Do bootstrapping.
